@@ -1,0 +1,1 @@
+ gdb-multiarch -q -x gdb_commands.txt target/thumbv6m-none-eabi/debug/pico-webapp
